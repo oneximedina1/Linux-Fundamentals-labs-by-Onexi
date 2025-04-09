@@ -1,4 +1,4 @@
-# Linux-Fundamentals-Labs-by-Onexi
+# Linux-Fundamentals-Labs
 Hands-on Linux training with daily labs and shell scripting
 
 # Linux Fundamentals Labs
