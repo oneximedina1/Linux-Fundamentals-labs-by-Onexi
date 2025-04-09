@@ -1,0 +1,8 @@
+mkdir -p ~/lab/day1
+cd ~/lab/day1
+
+whoami             # See your current user
+hostnamectl        # View basic system info
+pwd                # Print current working directory
+ls -la             # List all files (including hidden) with permissions
+
